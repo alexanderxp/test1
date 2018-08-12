@@ -1,4 +1,4 @@
 <?php
-echo "Hello World!"
-
-?>
+echo "Hello World!";
+$a = "Alexanderxp";
+echo $a;
