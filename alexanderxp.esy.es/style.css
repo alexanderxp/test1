@@ -1,0 +1,70 @@
+header {
+	background: url("fon1.jpg");
+	border : 2px solid green;
+	display : block;
+	margin :10px;
+}	
+
+main{
+	background-color : white;
+	
+	}
+	
+  p {
+	  background-color : aqua;
+	  font-size : 17px;
+	}
+
+  pre {
+	  font-size : 15px;
+	}
+
+
+div {
+	border : 2px solid green;
+	font-size : 15px;
+	font-family : Verdana;
+	display : block;
+	margin : 15px ;
+}	
+
+.work {
+	background-color: #E0FFFF;
+	border : 2px double grey;
+	font-size : 15px;
+	font-family : Verdana;
+	display : block;
+	margin :10px;
+	padding : 20px 20px 20px 50px;
+}	
+
+.other {
+	background: url("fon2.jpg");
+	border : 2px double grey;
+	font-size : 15px;
+	font-family : Verdana;
+	display : block;
+	margin :10px;
+	padding : 20px 20px 20px 50px;
+}	
+
+#progress {
+	background: url("fon3.jpg");
+	border : 2px double grey;
+	font-size : 15px;
+	font-family : Verdana;
+	display : block;
+	margin :10px;
+	padding : 20px 20px 20px 20px;
+	text-transform : uppercase;
+}	
+
+
+
+footer {
+	background-color : green;
+	border : 2px solid green;
+	font-family : Arial;
+	display : block;
+	margin :20px;
+
